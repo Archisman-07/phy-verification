@@ -1,0 +1,45 @@
+.basic-details-container{
+    
+    display: flex;
+    flex-direction: column;
+}
+.details-header{
+    display: flex;
+    height:10vh;
+    width:100%;
+    
+    
+}
+
+.logo-container{
+    width: 7.5%;
+    height:80px;
+    padding:2px;
+    background-size: contain;
+    background-position: center;
+
+}
+.logo{
+    height:100%;
+    width:100%;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    
+    width:92.5%;
+    font-size: 20px;
+    
+}
+.details{
+    margin-top: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:20vh;
+    font-size: 20px;
+}
+

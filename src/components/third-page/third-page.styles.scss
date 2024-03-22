@@ -1,0 +1,40 @@
+.third-content {
+    display: flex;
+    flex-direction: column;
+    // justify-content: space-between;
+    // align-items: center;
+    // width:75vw;
+    
+}
+.first-three {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width:75vw;
+}
+.sessionYear {
+    
+    width:30%;
+}
+.session {
+    width:30%;
+}
+.admissionNumber {
+    width:30%;
+}
+.last-three {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width:75vw;
+}
+.course {
+    
+    width:30%;
+}
+.branch {
+    width:30%;
+}
+.semester {
+    width:30%;
+}

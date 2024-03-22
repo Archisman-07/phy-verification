@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    
+    
+    // background-color: black;
+}
+
+.container-envelope{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // height: 25vh;
+    width: 75vw;
+    
+    
+    // background-color: blue;
+    
+}
+// .container-envelope-header{
+//     display: flex;
+//     width:50vw;
+//     // background-color: green;
+// }
+// .container-top-right {
+//     display:flex;
+//     width:37.5vw;
+// }
+
+// .container-envelope-content {
+    
+// }
